@@ -1,0 +1,88 @@
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../images/pattern.webp);
+    margin-top:  50px;
+}
+
+.brushes h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.frames h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.paint h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.brushes figcaption {
+    color: whitesmoke;
+    background-color: mediumspringgreen;
+    width: 205px;
+    margin-bottom: 20px;
+}
+
+.frames figcaption {
+    color: whitesmoke;
+    background-color: lightcoral;
+    width: 220px;
+    margin-bottom: 20px;
+}
+
+.paint figcaption {
+    color: whitesmoke;
+    background-color: skyblue;
+    width: 215px;
+    margin-bottom: 20px;
+} 
+ 
+h3 {
+    font-family: helvetica;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p, figcaption {
+    font-family: helvetica;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+body {
+    margin: auto;
+    width: 87%;
+    margin-bottom: 30px;
+}
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
